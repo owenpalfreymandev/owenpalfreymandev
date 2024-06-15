@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @owenpalfreymandev
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning Python but want to learn JS
+- 💞️ I’m want to make a game and publish it on Steam
+- 📫 Wishlist my game (if it ever comes out)
