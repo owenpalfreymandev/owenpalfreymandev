@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @owenpalfreymandev
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning React Native with Typescript
-- 💞️ I want to make an app using hardware from the device, probably the camera
-- 📫 Wishlist my game (if it ever comes out)
+- 👀 I guess it's me then
+- 🌱 I’m currently learning React  with Typescript
+- 🗿 <-- Follow me like this guy
+- 🥶 Cold projects here only
